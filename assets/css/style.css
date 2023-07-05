@@ -200,6 +200,18 @@ img.plus {
 }
 /* !end buttom container */
 
+.search-container {
+    width: 970px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.first-search-container {
+    display: flex;
+}
+.select-brand {
+    height: 20px;
+    width: 80px;
+}
 /* ? section tittle top*/
 
 /* ?  section tittle buttom*/
